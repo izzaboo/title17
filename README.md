@@ -1,5 +1,3 @@
-# Title 17
-
 Title 17 - Corporations, Partnerships and Associations
 ====================
 
