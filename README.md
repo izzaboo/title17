@@ -17,7 +17,7 @@ Table of Contents
 9. Chapter 9 - Secret or Benevolent Societies
 10. Chapter 10 - Cooperative Marketing Associations
 11. Chapter 11 - Industrial Corporations
-12. Chapter 12 - Miscellaneous Companies
+12. Chapter 12 - [Miscellaneous Companies](https://github.com/izzaboo/title17/blob/table_of_contents/chapter12.md)
     1. --
         1. 17-12-101. Certificate of ditch company.
         2. 17-12-102. Right-of-way of ditch company; interference eith prior ditch and water rights.
