@@ -18,7 +18,7 @@ Table of Contents
 10. Chapter 10 - Cooperative Marketing Associations
 11. Chapter 11 - Industrial Corporations
 12. Chapter 12 - Miscellaneous Companies
-    1. Article 1
+    1. --
         1. 17-12-101. Certificate of ditch company.
         2. 17-12-102. Right-of-way of ditch company; interference eith prior ditch and water rights.
         3. 17-12-103. Proper condition of ditches.
