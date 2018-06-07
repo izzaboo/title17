@@ -18,6 +18,12 @@ Table of Contents
 10. Chapter 10 - Cooperative Marketing Associations
 11. Chapter 11 - Industrial Corporations
 12. Chapter 12 - Miscellaneous Companies
+        1. 17-12-101. Certificate of ditch company.
+        2. 17-12-102. Right-of-way of ditch company; interference eith prior ditch and water rights.
+        3. 17-12-103. Proper condition of ditches.
+        4. 17-12-104. Applicability of W.S. 17-12-101 through 17-12-104 to existing companies.
+        5. 17-12-105. Authority of ditch and water companies to issue bonds and mortgage property.
+        6. 17-12-106. Certificate of telegraph company.
 13. Chapter 13 - Partnerships
 14. Chapter 14 - Limited Partnerships
 15. Chapter 15 - Limited Liability Companies
@@ -29,20 +35,20 @@ Table of Contents
     2. Article 2 - Organization
     3. Article 3 - Purposes and Powers
     4. Article 4 - Names
-  5. Article 5 - Office and Agent
-  6. Article 6 - Members and Memberships
-  7. Article 7 - Members' Meetings and Voting
-  8. Article 8 - Directors and Officers
-  9. Article 9 - Reserved
-  10. Article 10 - Amendment of Articles of Incorporation and Bylaws
-  11. Article 11 - Merger and Consolidation
-  12. Article 12 - Sale of Assets
-  13. Article 13 - Distributions
-  14. Article 14 - Dissolution
-  15. Article 15 - Foreign Corporations
-  16. Article 16 - Records and Reports
-  17. Article 17 - Domestications and Continuance of Foreign Corporation
-  18. Article 18 - Transition Provisions
+    5. Article 5 - Office and Agent
+    6. Article 6 - Members and Memberships
+    7. Article 7 - Members' Meetings and Voting
+    8. Article 8 - Directors and Officers
+    9. Article 9 - Reserved
+    10. Article 10 - Amendment of Articles of Incorporation and Bylaws
+    11. Article 11 - Merger and Consolidation
+    12. Article 12 - Sale of Assets
+    13. Article 13 - Distributions
+    14. Article 14 - Dissolution
+    15. Article 15 - Foreign Corporations
+    16. Article 16 - Records and Reports
+    17. Article 17 - Domestications and Continuance of Foreign Corporation
+    18. Article 18 - Transition Provisions
 20. Chapter 20 - Wyoming Cooperative Utilities Act
 21. Chapter 21 - Uniform Partnership Act
 22. Chapter 22 - Uniform Unincorporated Nonprofit Association Act
