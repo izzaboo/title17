@@ -25,10 +25,10 @@ Table of Contents
 17. Chapter 17 - Close Corporation Supplement
 18. Chapter 18 - Wyoming Management Stability Act
 19. Chapter 19 - Wyoming Nonprofit Corporation Act
-  1. Article 1 - General Provisions
-  2. Article 2 - Organization
-  3. Article 3 - Purposes and Powers
-  4. Article 4 - Names
+    1. Article 1 - General Provisions
+    2. Article 2 - Organization
+    3. Article 3 - Purposes and Powers
+    4. Article 4 - Names
   5. Article 5 - Office and Agent
   6. Article 6 - Members and Memberships
   7. Article 7 - Members' Meetings and Voting
